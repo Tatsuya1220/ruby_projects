@@ -1,3 +1,6 @@
 puts "hello ruby !!!!!!"
 puts "hello branding engineer"
 puts "hello tech boost"
+puts "1"
+puts "2"
+puts "3"
